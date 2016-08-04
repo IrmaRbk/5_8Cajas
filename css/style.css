@@ -1,0 +1,18 @@
+
+#dos{
+	width: 330px;
+	height: 110px ;
+	border:2px solid black;
+	background-color: gray;
+	margin-top: 5px;
+	margin-bottom:5px;
+}
+.a{
+	width: 100px;
+	height: 100px ;
+	border:2px solid black;
+	background-color:gray ;
+	}
+.inline-block{
+	display: inline-block;
+}
